@@ -1,4 +1,4 @@
-# NeuralNetworkTesting
+# Java Neural Network
 
 ## These files contain everything that is needed to create, train, use, save, read, and edit a simple Neural Network!
 ### The code is fully commented, so you can see how a Neural network works from the ground up. The class "Main.java" contains example creation, training, saving, reading, and testing of a network.
